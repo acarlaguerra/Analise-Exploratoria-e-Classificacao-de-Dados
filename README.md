@@ -1,3 +1,1 @@
-Link do Drive(Projeto + Vídeo) - Raíssa Heimann: https://drive.google.com/drive/folders/1v66YDD76iIyCyBXpvAm5nKJ9hZ8i8qdM?usp=sharing
-
-Link do Vídeo (Ana Carla): https://youtu.be/j8Th4oxqzFY
+This project explores and analyzes the Palmer Penguins dataset using Python, pandas, scikit-learn, and MLflow to gain insights, build understanding, and evaluate machine learning models aimed at improving the classification of different penguin species.
